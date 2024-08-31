@@ -1,0 +1,11 @@
+
+.action-div {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 12px 0px;
+}
+
+#canvas {
+    margin: 12px 0px;
+    border: 1px solid black;
+}
